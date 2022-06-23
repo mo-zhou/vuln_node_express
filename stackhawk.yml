@@ -1,3 +1,7 @@
+# HawkScan 2.4.1
+# vuln_node_express Application specific config
+# Completed: 1655997559525
+
 app:
   host: http://localhost:3000
   antiCsrfParam: ""
