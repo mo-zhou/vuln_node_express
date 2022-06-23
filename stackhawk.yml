@@ -1,4 +1,4 @@
-# hawkscan configuration file
+# simple configuration file
 app:
   host: http://localhost:3000
   antiCsrfParam: ""
@@ -10,3 +10,4 @@ app:
   env: Development
   autoPolicy: false
   autoInputVectors: false
+
