@@ -1,4 +1,3 @@
-# simple configuration file to run HawkScan
 app:
   host: http://localhost:3000
   antiCsrfParam: ""
