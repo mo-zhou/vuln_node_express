@@ -1,6 +1,6 @@
 # HawkScan 2.4.1
 # vuln_node_express Application specific config
-# Completed: 1655997559525
+# Completed: 1655999816432
 
 app:
   host: http://localhost:3000
