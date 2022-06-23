@@ -10,4 +10,3 @@ app:
   env: Development
   autoPolicy: false
   autoInputVectors: false
-
